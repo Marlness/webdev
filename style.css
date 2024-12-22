@@ -55,6 +55,8 @@ div p{
   h1 {
     font-size: 3.5rem;
     text-align: center;
+    margin-right:20px;
+    margin-left: 20px;
   }
   .card {
     width: 100%;
