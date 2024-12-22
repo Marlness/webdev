@@ -49,8 +49,8 @@ div p{
 }
 @media (max-width: 680px) {
   .logo {
-    height:20px;
-  width:200px;
+    height:28px;
+  width:280px;
   }
   h1 {
     font-size: 3.5rem;
