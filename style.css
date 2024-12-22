@@ -1,6 +1,6 @@
 body {
   font-family: "Poppins", sans-serif;
-  margin: 0;
+  margin: 50px 50px 0 50px;
   background-color: black;
   display: flex;
   flex-direction: column;
@@ -8,12 +8,10 @@ body {
 }
 .main {
   flex: 1;
-  text-align: center;
 }
 h1 {
   font-size: 5rem;
   color:darkgray;
-  margin: 0;
 }
 footer {
   text-align: right;
