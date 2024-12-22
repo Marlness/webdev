@@ -24,7 +24,6 @@ footer {
 .tile-image{
   height: 200px;
   float: left;
-  margin-right: 50px;
 }
 .card{
   width:45%;
@@ -52,13 +51,13 @@ div p{
   }
   h1 {
     font-size: 3.5rem;
-    text-align: justify;
+    text-align: center;
   }
   .card {
     width: 100%;
     display: block;
     margin-bottom: 30px;
-    text-align: justify;
+    text-align: center;
   }
   .card img {
     margin-bottom: 10px;
