@@ -52,7 +52,7 @@ div p{
   }
   h1 {
     font-size: 3.5rem;
-    text-align: center;
+    text-align: auto;
   }
   .card {
     width: 100%;
