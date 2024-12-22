@@ -12,8 +12,7 @@ body {
 h1 {
   font-size: 5rem;
   color:darkgray;
-  margin-top: 50px;
-  margin-bottom: 50px;
+  margin: 50px;
 }
 footer {
   text-align: right;
@@ -29,7 +28,7 @@ footer {
   margin-right: 50px;
 }
 .card{
-  width:50%;
+  width:45%;
 }
 .left {
   float: left;
@@ -55,8 +54,6 @@ div p{
   h1 {
     font-size: 3.5rem;
     text-align: center;
-    margin-right:40px;
-    margin-left: 40px;
   }
   .card {
     width: 100%;
