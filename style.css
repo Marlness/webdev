@@ -1,10 +1,10 @@
 body {
   font-family: "Poppins", sans-serif;
-  margin: 50px 50px 0 50px;
+  margin: 30px 50px 0 50px;
   background-color: black;
   display: flex;
   flex-direction: column;
-  min-height: 95vh;
+  min-height: 100vh;
 }
 .main {
   flex: 1;
@@ -12,14 +12,16 @@ body {
 h1 {
   font-size: 5rem;
   color:darkgray;
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
 footer {
   text-align: right;
   color:lightsteelblue;
 }
 .logo{
-  height:50px;
-  width:500px;
+  height:40px;
+  width:400px;
 }
 .tile-image{
   height: 200px;
@@ -47,8 +49,8 @@ div p{
 }
 @media (max-width: 680px) {
   .logo {
-    height:25px;
-  width:250px;
+    height:20px;
+  width:200px;
   }
   h1 {
     font-size: 3.5rem;
